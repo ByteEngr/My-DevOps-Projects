@@ -16,7 +16,7 @@ Follow the steps below to set up and run the application.
 
 Clone this repository to your local machine using the following command:
 
-    git clone https://github.com/akintunero/My-DevOps-Projects.git
+    git clone https://github.com/ByteEngr/My-DevOps-Projects.git
     cd python-docker-hello-world
 
 Step 2: Create the Python Application
